@@ -1,0 +1,21 @@
+.sejajar {
+    display: inline-block;
+    
+
+}
+
+.sejajar label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.sejajar input {
+    margin-left: 20px;
+    width: 300px;
+}
+
+.sejajar div {
+    display: inline-block;
+    margin-right: 10px;
+}

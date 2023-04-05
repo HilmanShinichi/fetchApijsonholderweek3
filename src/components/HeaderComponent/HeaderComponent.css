@@ -1,0 +1,15 @@
+.containerhead {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+.auah header{
+    height:65px;
+    width:100%;
+    background-color:rgba(65, 187, 211, 0.9);
+  }
+
+.header-left img {
+  margin-top: 15px;
+} 
+
